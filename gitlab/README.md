@@ -60,8 +60,7 @@ external_url 'http://192.168.1.21'        #改为自己的IP地址
 
 5. 汉化完成页面如下
 
-![ok.png](/ok.png)
-
+![ok.png](https://github.com/owlyme/tool-install/blob/main/gitlab/ok.png)
 
 ## 疑难问题
 1. 问题一
